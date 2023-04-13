@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DDB4FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=390969&height=120&section=header"/>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello+there!;I'm+a+systems+development+student;I've+been+learning+to+program+for+2+years+now;+:%29)](https://git.io/typing-svg)
   
@@ -23,7 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;-->
 
-  ![Snake animation](https://github.com/anabmartins/anabmartins/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/BeMachado23/BeMachado23/blob/output/github-contribution-grid-snake.svg)
    </div>
  <div align="center">
    <img src="https://komarev.com/ghpvc/?username=BeMachado23&color=DDB4FF" /> 
