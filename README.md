@@ -23,7 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;-->
 
-  ![Snake animation](https://github.com/BeMachado23/BeMachado23/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/BeMachado23/BeMachado23/blob/output/github-contribution-grid-snake.gif)
    </div>
  <div align="center">
    <img src="https://komarev.com/ghpvc/?username=BeMachado23&color=DDB4FF" /> 
