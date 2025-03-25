@@ -5,8 +5,6 @@
  <div align="center">
  <div>
 <a href="https://github.com/BeMachado23">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeMachado23&layout=compact&langs_count=7&theme=midnight-purple"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeMachado23&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
  <br>
  <h2>Front-End Skills I'm learning:</h2>
@@ -24,7 +22,6 @@
   <br><br><br>  
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;-->
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BeMachado23&bg_color=1c0d2b&color=761fbd&line=6b139a&point=430a61&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
    </div>
  <div align="center">
    <img src="https://komarev.com/ghpvc/?username=BeMachado23&color=DDB4FF" /> 
